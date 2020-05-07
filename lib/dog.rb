@@ -22,7 +22,7 @@ class Dog
     end
   end
   
- def self.save
+ def pluto.save
    @@all.push("pluto")
  end
     
