@@ -25,7 +25,6 @@ class Dog
   
  def save
    self.push
-   binding.pry
  end
     
 end
