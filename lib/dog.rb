@@ -23,7 +23,7 @@ class Dog
   end
   
  def pluto.save
-   @@all.push("pluto")
+   @@all.push
  end
     
 end
